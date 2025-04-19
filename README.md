@@ -29,6 +29,7 @@ This project was created to increase my skills in Python, desktop development, c
 - 🌙 **Theme Switching**: Light/Dark mode toggle
 - 🌍 **Multilingual Support**: Arabic and English interface
 - 🔐 **Role-Based Login**: Admin or client views depending on login
+- 📂 Modular OOP Structure: Code is cleanly divided into multiple files using object-oriented programming for better organization and scalability
 
 ---
 
