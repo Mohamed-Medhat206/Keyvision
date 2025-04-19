@@ -23,7 +23,7 @@ This project was created to increase my skills in Python, desktop development, c
 - ⌨️ **Keylogger**: Logs and sends typed input with support for forbidden word alerts
 - 🖥️ **PyQt5 GUI**:
   - Admin (Server) UI with live data display and user management
-  - Lightweight client UI running in the background
+  - Client UI running in the background
 - 🌐 **Flask API**: For communication between clients and server
 - 📁 **MySQL Integration**: Stores logs, credentials, and configuration
 - 🌙 **Theme Switching**: Light/Dark mode toggle
