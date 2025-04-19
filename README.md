@@ -42,6 +42,13 @@ This project was created to increase my skills in Python, desktop development, c
 - Capturing and analyzing system input/output
 
 ---
+## ▶️ How to Run the App
+
+1. **Clone the project and install the requirements:**
+   ```bash
+   pip install -r requirements.txt
+
+---
 
 ## ▶️ How to Run the App
 
