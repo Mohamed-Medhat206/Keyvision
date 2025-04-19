@@ -60,10 +60,10 @@ This project was created to increase my skills in Python, desktop development, c
 
 **Admin access (server mode):**
 
-Username: admin
-Password: admin
+- Username: admin
+- Password: admin
 
 **Client access (background mode):**
 
-Username: client
-Password: client
+- Username: client
+- Password: client
