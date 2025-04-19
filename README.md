@@ -47,10 +47,10 @@ This project was created to increase my skills in Python, desktop development, c
 1. **Clone the project and install the requirements:**
    ```bash
    pip install -r requirements.txt
-
-2. **Set up MySQL and import the database:
-  -  Make sure you have MySQL installed. Then, create the database and tables by importing (logs_db) SQL file
-3- Run the app:
+   
+2. **Set up MySQL and import the database:**
+- Make sure you have MySQL installed. Then, create the database and tables by importing (logs_db) SQL file
+3. **Run the app:**
    ```bash
    python main.py
 
@@ -58,10 +58,12 @@ This project was created to increase my skills in Python, desktop development, c
 
 ## 🧪 To Test the Login
 
-Admin access (server mode):
+**Admin access (server mode):**
+
 Username: admin
 Password: admin
 
-Client access (background mode):
+**Client access (background mode):**
+
 Username: client
 Password: client
