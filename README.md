@@ -40,3 +40,13 @@ This project was created to increase my skills in Python, desktop development, c
 - Creating REST APIs with Flask
 - Using threading for background operations
 - Capturing and analyzing system input/output
+
+---
+
+▶️ How to Run the App
+###1- Clone the project and install the requirements:
+  -  pip install -r requirements.txt
+2- Set up MySQL and import the database:
+  -  Make sure you have MySQL installed. Then, create the database and tables by importing (logs_db) SQL file
+3- Run the app:
+  -  python main.py
