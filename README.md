@@ -6,6 +6,17 @@ This project was created to increase my skills in Python, desktop development, c
 
 ---
 
+## 🚀 Technologies Used
+
+- Python 3
+- PyQt5
+- Flask
+- MySQL
+- psutil
+- threading
+
+---
+
 ## 🔧 Features
 
 - 🧠 **Real-Time Monitoring**: CPU and memory usage tracking across connected clients
@@ -24,30 +35,11 @@ This project was created to increase my skills in Python, desktop development, c
 ## 📸 Screenshots
 
 ![Screenshot (789)](https://github.com/user-attachments/assets/4fd2e86b-b3e4-42d9-ad4b-79508c98d2e4)
-
-
----
-
-
-## 🚀 Technologies Used
-
-- Python 3
-- PyQt5
-- Flask
-- MySQL
-- psutil
-- pynput
-- threading
+![Screenshot (790)](https://github.com/user-attachments/assets/392493f4-f58a-4585-ad2a-6a8f8283f020)
+![Screenshot (791)](https://github.com/user-attachments/assets/12d70d0a-9e00-4b44-933d-6dffd3351eaa)
 
 ---
-## ⚙️ Installation
 
-1. **Clone this repo**
-
-```bash
-git clone https://github.com/your-username/keyvision.git
-cd keyvision
-```
 ## 🧠 What I Learned
 
 - Building full GUI applications with PyQt5
@@ -55,8 +47,3 @@ cd keyvision
 - Creating REST APIs with Flask
 - Using threading for background operations
 - Capturing and analyzing system input/output
-- Deploying role-based logic with UI separation
-
-## 💡 Future Improvements
-# [Add this after "What I Learned"]
-
