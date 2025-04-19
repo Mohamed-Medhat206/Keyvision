@@ -46,7 +46,7 @@ This project was created to increase my skills in Python, desktop development, c
 
 1. **Clone the project and install the requirements:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r libraries.txt
    
 2. **Set up MySQL and import the database:**
 - Make sure you have MySQL installed. Then, create the database and tables by importing (logs_db) SQL file
