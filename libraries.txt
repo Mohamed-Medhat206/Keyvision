@@ -1,0 +1,7 @@
+psutil
+requests
+mysqlclient
+Thread
+PyQt5
+socket
+queue
