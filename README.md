@@ -32,13 +32,6 @@ This project was created to increase my skills in Python, desktop development, c
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot (789)](https://github.com/user-attachments/assets/4fd2e86b-b3e4-42d9-ad4b-79508c98d2e4)
-![Screenshot (790)](https://github.com/user-attachments/assets/392493f4-f58a-4585-ad2a-6a8f8283f020)
-![Screenshot (791)](https://github.com/user-attachments/assets/12d70d0a-9e00-4b44-933d-6dffd3351eaa)
-
----
 
 ## 🧠 What I Learned
 
