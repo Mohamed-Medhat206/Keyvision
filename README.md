@@ -1,8 +1,8 @@
 # KeyVision 🖥️🔐
 
-**KeyVision** is a personal training project built using **Python**, **PyQt5**, and **Flask**. It’s a real-time network monitoring and key logging system designed to help administrators observe system performance and user input across a local network.
+**KeyVision** is a personal project built using **Python**, **PyQt5**, and **Flask**. It’s a real-time network monitoring and key logging system designed to help administrators observe system performance and user input across a local network.
 
-This project was created to deepen my understanding of Python desktop development, client-server communication, and database integration.
+This project was created to increase my skills in Python, desktop development, client-server communication, and database integration.
 
 ---
 
@@ -23,9 +23,11 @@ This project was created to deepen my understanding of Python desktop developmen
 
 ## 📸 Screenshots
 
-> Add screenshots here (optional)
+![Screenshot (789)](https://github.com/user-attachments/assets/4fd2e86b-b3e4-42d9-ad4b-79508c98d2e4)
+
 
 ---
+
 
 ## 🚀 Technologies Used
 
